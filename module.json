@@ -343,6 +343,7 @@
   "changelog": "https://github.com/chrisk123999/chris-premades/blob/master/CHANGELOG.md",
   "url": "https://github.com/chrisk123999/chris-premades/",
   "manifest": "https://raw.githubusercontent.com/Kaobara/chris-premades-magus-fork/laserllama-magus/module.json",
+  "download": "https://github.com/Kaobara/chris-premades-magus-fork/archive/refs/heads/laserllama-magus.zip",
   "license": "LICENSE",
   "readme": "README.md",
   "media": [
